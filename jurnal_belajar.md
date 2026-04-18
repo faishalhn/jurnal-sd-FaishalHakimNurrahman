@@ -5,3 +5,4 @@ Perbedaan antara Staging Area dan Git Directory terletak pada fungsinya dalam pr
 
 Saya sedang mengerjakan fitur di cabang terpisah.
 Update development
+Update kedua development
